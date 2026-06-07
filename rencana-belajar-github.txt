@@ -1,6 +1,8 @@
 RENCANA BELAJAR GITHUB
 -Branch
  *membuat branch yang akan digunakan
+ *membuat fitur baru
 -Fork
 -Merge
+ *menggabungkan beberapa branch
 -Remote
