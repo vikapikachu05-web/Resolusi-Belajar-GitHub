@@ -1,5 +1,6 @@
 RENCANA BELAJAR GITHUB
 -Branch
+ *membuat branch yang akan digunakan
 -Fork
 -Merge
 -Remote
